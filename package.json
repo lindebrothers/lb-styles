@@ -1,0 +1,8 @@
+{
+  "name": "lb-styles",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:lindebrothers/lb-styles.git",
+  "author": "akejolin <akejolin@gmail.com>",
+  "license": "MIT"
+}
